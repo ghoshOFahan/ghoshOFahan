@@ -80,6 +80,9 @@ const ahan = {
 </div>
 
 ---
+<div align="center">
+  <img src="kisuketyping-ezgif.com-video-to-gif-converter.gif" alt="Kisuke Typing">
+</div>
 
 ## 📊 GitHub Statistics
 
