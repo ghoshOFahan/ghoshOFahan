@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahan%20Ghosh&fontSize=42&fontColor=fff&animation=tadeIn&fontAlignY=32&desc=Backend%20Developer%20|%20Full%20Stack%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Ahan%20Ghosh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Backend%20Developer%20|%20Full%20Stack%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 
 </div>
 
@@ -104,6 +104,6 @@ class Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
