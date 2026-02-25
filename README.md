@@ -1,6 +1,6 @@
 # Ahan Ghosh
 
-**Backend Developer · Full Stack · Kolkata, India**
+**AI Full Stack · Kolkata, India**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahan-ghosh-9814a4252)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://ahanghosh.site)
@@ -87,7 +87,7 @@ Farm-to-consumer marketplace connecting farmers directly to buyers, built for SI
 
 ### GitHub
 
-![Streak](https://streak-stats.demolab.com?user=ghoshofahan&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=888888&sideLabels=555555&dates=444444)
+
 
 ![Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ghoshofahan&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8)
 
