@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="36" viewBox="0 0 229 36">
+  <rect width="229" height="36" fill="#000000"/>
+  <pattern id="dots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="0.8" fill="#ffffff" opacity="0.15"/>
+  </pattern>
+  <rect width="229" height="36" fill="url(#dots)"/>
+  <text x="16" y="23" font-family="monospace" font-size="13" font-weight="bold" fill="#FF6B35" letter-spacing="2">WHAT I'M INTO</text>
+</svg>
