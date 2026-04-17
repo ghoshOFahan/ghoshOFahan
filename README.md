@@ -113,7 +113,7 @@ Fully on-device, privacy-first autism screening platform running a 10-step behav
 `Next.js` `TypeScript` `ONNX Runtime Web` `Amazon Bedrock` `DynamoDB` `Amazon Polly` `AWS Amplify`
 
 [![Repo](https://img.shields.io/badge/source-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/Partha-dev01/AutiSense_2)
-[![Live](https://img.shields.io/badge/live-20232A?style=flat-square&logo=vercel&logoColor=white)](https://main.d2n7pu2vtgi8yc.amplifyapp.com)
+[![Live](https://img.shields.io/badge/live-20232A?style=flat-square&logo=vercel&logoColor=white)](https://autisense.imaginaerium.in/)
 
 </td>
 </tr>
@@ -127,7 +127,6 @@ AI habit tracker with voice journaling — reduced daily logging time by **~70%*
 `React` `Node.js` `Hono` `MongoDB` `OpenAI API`
 
 [![Repo](https://img.shields.io/badge/source-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/yourmindspace/diversion_proto)
-[![Live](https://img.shields.io/badge/live-20232A?style=flat-square&logo=vercel&logoColor=white)](https://github.com/yourmindspace/diversion_proto)
 
 </td>
 </tr>
