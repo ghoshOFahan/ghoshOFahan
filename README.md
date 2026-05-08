@@ -98,7 +98,7 @@ Fully on-device, privacy-first autism screening platform running a 10-step behav
 
 AI habit tracker with voice journaling — reduced daily logging time by **~70%** vs manual entry. Personalized nudges powered by LLM-driven behavioral analysis. MongoDB-backed progress visualization enabling data-driven habit recommendations. Mobile-first, minimal UI built with TailwindCSS.
 
-`React` `Node.js` `Hono` `MongoDB` `OpenAI API`
+`HTML` `Node.js` `Hono` `MongoDB` `OpenAI API`
 
 [![Repo](https://img.shields.io/badge/source-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/yourmindspace/diversion_proto)
 
