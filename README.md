@@ -2,15 +2,6 @@
 
 <div align="center">
 
-```
-  █████╗ ██╗  ██╗ █████╗ ███╗   ██╗    ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
- ██╔══██╗██║  ██║██╔══██╗████╗  ██║   ██╔════╝ ██║  ██║██╔═══██╗██╔════╝██║  ██║
- ███████║███████║███████║██╔██╗ ██║   ██║  ███╗███████║██║   ██║███████╗███████║
- ██╔══██║██╔══██║██╔══██║██║╚██╗██║   ██║   ██║██╔══██║██║   ██║╚════██║██╔══██║
- ██║  ██║██║  ██║██║  ██║██║ ╚████║   ╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
 **AI Full Stack Developer · Kolkata, India**
 
 <br/>
@@ -24,23 +15,6 @@
 
 ---
 
-<div align="center">
-
-### `> whoami`
-
-</div>
-
-```yaml
-role:       AI Full Stack Developer
-focus:
-  - Real-time systems with WebSockets & message queues
-  - LLM integration into production-grade products
-  - Cloud-native architecture on AWS & Azure
-  - Clean APIs, distributed systems, scalable backends
-currently:  Building things that actually ship
-```
-
----
 
 <div align="center">
 
